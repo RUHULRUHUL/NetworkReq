@@ -1,9 +1,8 @@
-package com.example.networkreq.model;
+package com.example.networkreq.services.model;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
-import java.io.Serializable;
 import java.util.List;
 
 public class SliderResponse {
